@@ -170,10 +170,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
-![WhatsApp Image 2024-04-01 at 10 29 31](https://github.com/karnashankar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121109150/a39a8f33-7108-4535-811a-8680cb9b57e4)
+##LEN OFF
 
+![MICROOFF](https://github.com/karnashankar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121109150/584e9210-560c-487e-8f65-6eca3c79dc1e)
 
-![WhatsApp Image 2024-04-01 at 10 29 32](https://github.com/karnashankar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121109150/b6471403-391f-4178-802e-53f2f5e14c6d)
+##LED ON
+
+![microon](https://github.com/karnashankar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121109150/6e725e67-1aa8-4b8e-912f-183e5445d401)
+
 
  
  
